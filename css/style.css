@@ -1,0 +1,99 @@
+.background{
+	     background-color:lightblue;
+		 border:5px solid blue;
+}
+.d{
+    width: 67%;
+    float: right;
+    margin: 171px 0px 20px 15px;
+}
+.l{
+	color:green;
+}
+
+.h{
+	background-color:orange;
+	border:10px solid blue;
+}
+.div2{
+	    width: 67%;
+    float: right;
+    margin: 50px 0px 12px 12px;
+}
+.th{
+	float:left;
+}
+.td{
+	float:right;
+}
+
+.my{
+	    background: black;
+		margin: 5px;
+}
+.td{
+	color:red;
+}
+
+.k{
+	border:200px solid blue;
+}
+.cl{
+	float: right;
+    width: 67%;
+    margin: 47px 0 0 0px;
+}
+.b{
+	border:5px solid darkorange;
+}
+.r{
+	 padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+.v:hover{
+	 background-color:lightblue;
+}
+.h2{
+	background-color:#FFE4C4;
+	border:5px solid #800000;
+}
+
+.n:hover{
+	 background-color:lightgreen;
+}
+.tl{
+	color:blue;
+}
+.tl{
+	float:right;
+}
+.div3{
+	    width: 67%;
+    float: right;
+    margin: 50px 0px 12px 12px;
+}
+.p{
+	border:6px solid black;
+	background-color:#FF00FF
+}
+.pagination {
+    display: inline-block;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+}
+
+.pagination a.active {
+    background-color:	#FFFFF;
+    color: black;
+}
+
+.pagination a:hover {
+	background-color: #4CAF50;
+	}

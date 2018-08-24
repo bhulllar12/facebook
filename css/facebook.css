@@ -1,0 +1,144 @@
+.body{
+	background-color:#E9EBF3;
+}
+.div{
+	background-color:#3B5998 ;
+    color: white;
+    padding: 9px 0px 1px 95px;
+    margin: -28px -9px 0px -8px;
+}
+.h1{
+	margin: 28px 0px 0px 94px;
+	font-size: 50px;
+}
+.t{
+	float: right;
+    margin: -66px 164px 0 0;
+}
+.color{
+	   color: white;
+}
+.color1{
+	color:#9CB4D8;
+}
+.login{
+	color: white;
+    background-color: #4267B2;
+}
+.hading{
+	float: right;
+    margin: 17px 233px 0 0;
+    font-size: 46px;
+}
+.hading1{
+	float: right;
+    margin: 76px -257px 0 0;
+    font-size: 22px;
+}
+.table{
+	float: right;
+    margin: 111px -427px 0 0
+}
+.first{
+	padding: 9px 31px 9px 0;
+}
+.sur{
+	padding: 9px 31px 9px 0;
+	margin: 0px 0px 0px 8px;
+
+}
+.mobile{
+	padding: 9px 247px 9px 0;
+	margin: 8px 0 0 0;
+	
+}
+.new{
+	padding: 9px 247px 9px 0;
+	margin: 8px 0 0 0;
+	
+}
+.birth{
+	    font-size: 20px;
+		padding: 16px 0 0 0;
+}
+.day{
+	    padding: 4px 11px 4px 0;
+		    margin: 5px 0 0 0;
+}
+.month{
+	    padding: 4px 11px 4px 0;
+}
+.year{
+	padding: 4px 11px 4px 0;
+}
+.male{
+	    padding: 14px 0 0 0;
+		font-size: 20px;
+}
+.p{
+	padding: 13px 0 0 0;
+    font-size: 13px;
+}
+.button{
+	padding: 7px 55px 7px 54px;
+    background-color: #5F9D4C;
+    color: white;
+	margin: 19px 0 0 0;
+	font-size: 21px;
+}
+.pa{
+	padding: 34px 0 0 0;
+}
+.img{
+	padding: 0px 0px 0px 177px;
+}
+.span2{
+	float: right;
+    margin: 10px -331px 0px 0px;
+    font-size: 10px;
+}
+.h3{
+	margin: 0px 0px -17px 181px;
+    font-size: 22px;
+	color:#0E385F;
+}
+.margin{
+	margin: 47px 0 0 0;
+}
+.foo{
+	padding: 24px 0 0 78px;
+	
+}
+.back{
+	background-color: white;
+	padding: 0px 0px 23px 0;
+	margin: 0px -13px 0px -13px;
+}
+
+.padding{
+	    padding: 0 0 282px 0px;
+}
+.font{
+	   font-size: 13px;
+}
+.nav1{
+	    padding: 4px;
+}
+.nav{
+	 padding: 8px;
+}
+.ul{
+	    padding: 0px 0 0px 114px;
+		font-size: 15px;
+}
+.span{
+	    padding: 11px 0px 0px 118px;
+}
+.span1{
+	    font-size: 14px;
+}
+.male{
+	background-color:#E9EBF3;
+		height: 18px;
+		width: 25px;
+}
